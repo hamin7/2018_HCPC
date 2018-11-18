@@ -1,3 +1,4 @@
+~~~py
 a=[]
 b=[]
 n=1
@@ -21,4 +22,4 @@ for i in range(len(a)):
     
 for i in range(len(a)):
     print(a[i])
-
+~~~
