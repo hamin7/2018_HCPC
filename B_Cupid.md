@@ -1,3 +1,4 @@
+~~~py
 a=input()
 a=a.split(' ')
 r=[]
@@ -19,5 +20,6 @@ if(len(r)==0):
     print('No one yet')
 else:
     for i in r:
-        print(i)
-        
+        print(i)      
+
+~~~
